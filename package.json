@@ -1,7 +1,7 @@
 {
   "name": "qhms-quasarproject",
   "version": "0.0.1",
-  "description": "A Health management project built with quasar framework",
+  "description": "A Health managements project built with quasar framework",
   "productName": "qhms-quasarproject",
   "author": "Taha227",
   "private": true,
